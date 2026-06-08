@@ -46,66 +46,52 @@ Exemplo:
 
 ---
 
-Regras de Classificação
+Regras de Classificação 
 
 Temperatura
-
- Condição           Status  
- --------------  ------- 
- Menor que 18°C     ATENÇÃO 
- Entre 18°C e 30°C  NORMAL  
- Entre 31°C e 35°C  ATENÇÃO 
- Acima de 35°C      CRÍTICO 
+Condição	      Status
+Menor que 18°C:	ATENÇÃO
+Entre 18°C e 30°C: NORMAL
+Entre 31°C e 35°C:ATENÇÃO
+Acima de 35°C: CRÍTICO
 
 Comunicação
-
- Condição          Status  
- ---------------  ------- 
- Menor que 30%    CRÍTICO 
- Entre 30% e 59%  ATENÇÃO 
- 60% ou mais      NORMAL  
+Condição      Status
+Menor que 30%:	CRÍTICO
+Entre 30% e 59%:	ATENÇÃO
+60% ou mais:	NORMAL
 
 Bateria
-
- Condição         Status  
- ---------------  ------- 
- Menor que 20%    CRÍTICO 
- Entre 20% e 49%  ATENÇÃO 
- 50% ou mais      NORMAL  
+Condição	    Status
+Menor que 20%:	CRÍTICO
+Entre 20% e 49%:	ATENÇÃO
+50% ou mais:	NORMAL
 
 Oxigênio
-
- Condição         Status  
- ---------------  ------- 
- Menor que 80%    CRÍTICO 
- Entre 80% e 89%  ATENÇÃO 
- 90% ou mais      NORMAL  
+Condição	     Status
+Menor que 80%:	CRÍTICO
+Entre 80% e 89%:	ATENÇÃO
+90% ou mais:	NORMAL
 
 Estabilidade
-
- Condição         Status  
- ---------------  ------- 
- Menor que 40%    CRÍTICO 
- Entre 40% e 69%  ATENÇÃO 
- 70% ou mais      NORMAL  
-
----
+Condição	    Status
+Menor que 40%: CRÍTICO
+Entre 40% e 69%:	ATENÇÃO
+70% ou mais:	NORMAL
 
 Pontuação de Risco
 
- Classificação  Pontos 
- -------------  ------ 
- NORMAL         0      
- ATENÇÃO        1      
- CRÍTICO        2      
+Classificação	Pontos
+NORMAL	0
+ATENÇÃO	1
+CRÍTICO	2
 
 Classificação final do ciclo:
 
- Pontuação  Resultado         
- ---------  ----------------- 
- 0 a 2      MISSÃO ESTÁVEL    
- 3 a 5      MISSÃO EM ATENÇÃO 
- 6 a 10     MISSÃO CRÍTICA    
+Pontuação	Resultado
+0 a 2	MISSÃO ESTÁVEL
+3 a 5	MISSÃO EM ATENÇÃO
+6 a 10	MISSÃO CRÍTICA
 
 ---
 
