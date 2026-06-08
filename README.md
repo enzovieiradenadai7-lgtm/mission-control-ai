@@ -52,7 +52,7 @@ Temperatura
 
 Menor que 18°C:	ATENÇÃO
 Entre 18°C e 30°C: NORMAL
-Entre 31°C e 35°C:ATENÇÃO
+Entre 31°C e 35°C: ATENÇÃO
 Acima de 35°C: CRÍTICO
 
 Comunicação
@@ -78,6 +78,7 @@ Estabilidade
 Menor que 40%: CRÍTICO
 Entre 40% e 69%:	ATENÇÃO
 70% ou mais:	NORMAL
+
 
 Pontuação de Risco
 
