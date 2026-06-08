@@ -16,13 +16,13 @@ Objetivo
 
 Desenvolver um sistema capaz de:
 
-* Monitorar dados simulados de uma missão espacial;
-* Classificar situações como NORMAL, ATENÇÃO ou CRÍTICO;
-* Calcular o risco de cada ciclo;
-* Identificar a tendência da missão;
-* Detectar a área mais afetada durante a operação;
-* Gerar recomendações automáticas;
-* Exibir um relatório final completo.
+Monitorar dados simulados de uma missão espacial;
+Classificar situações como NORMAL, ATENÇÃO ou CRÍTICO;
+Calcular o risco de cada ciclo;
+Identificar a tendência da missão;
+Detectar a área mais afetada durante a operação;
+Gerar recomendações automáticas;
+Exibir um relatório final completo.
 
 ---
 
